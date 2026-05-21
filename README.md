@@ -1,5 +1,7 @@
 Hello I'm Abe welcome to my Github. 
 
-I'm currenly working on gymAtlas a community driven gym web app that allows users to locate specific gym equipment around the world. 
+I'm currently working on gymAtlas Web, a community driven gym web app that allows users to locate specific gym equipment around the world. 
 
-an SBL, optimumtech and Monkeytype fanboy. 
+gymAtlas Web represents phase two of the trilogy, built on top of the gymAtlas API the foundational platform that will continue evolving into the final stage of the ecosystem.
+
+an [SBL](https://www.urbandictionary.com/define.php?term=Science-Based%20Lifting), [Optimum Tech](https://www.youtube.com/@OptimumTech) and [Monkeytype](https://github.com/monkeytypegame/monkeytype) fanboy.
