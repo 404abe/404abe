@@ -5,4 +5,4 @@ gymAtlas Web represents phase two of the trilogy, built on top of the gymAtlas A
 
 Currently also building a Flutter app coming soon. Let me know if you'd like to collab.
 
-an [SBL](https://www.urbandictionary.com/define.php?term=Science-Based%20Lifting), [Optimum Tech](https://www.youtube.com/@OptimumTech) and [Monkeytype](https://github.com/monkeytypegame/monkeytype) fanboy.
+an [SBL](https://www.urbandictionary.com/define.php?term=Science-Based%20Lifting), Data Lover, [Optimum Tech](https://www.youtube.com/@OptimumTech) and [Monkeytype](https://github.com/monkeytypegame/monkeytype) fanboy.
